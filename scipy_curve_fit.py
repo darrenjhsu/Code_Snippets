@@ -11,7 +11,6 @@ import numpy as np
 from scipy.optimize import curve_fit
 from scipy.special import erf
 
-
 #%%
 
 def func(x, a, b, c, d, e, f, IRF):

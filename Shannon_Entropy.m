@@ -7,3 +7,4 @@ S = - (p.*log2(p) + b.*log2(b))
 
 plot(p, S)
 
+
